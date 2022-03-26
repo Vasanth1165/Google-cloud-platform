@@ -1,0 +1,22 @@
+//Linux as web server
+create a vm instance
+open in browser
+sudo su--to change user account to root account
+apt-get update
+apt-get install apache2
+copy ex ip address and search
+/var/www/html/index.html
+cd=change in directary
+cd /var
+cd www
+cd html
+ls -l--check no of files
+rm index.html--remove the file
+ls -l
+apt-get install nano--if it not have
+nano index.html
+write as u want and save
+ctrl^o---to save
+ctrl^t---to browse
+refresh the page
+done!!!
