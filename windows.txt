@@ -1,0 +1,10 @@
+create a vpc
+create a VM instance
+open with browser
+copy user id and pass
+ctrl^R
+mstsc 
+give ur external ip address
+and also user name
+then enter pass key
+done!
